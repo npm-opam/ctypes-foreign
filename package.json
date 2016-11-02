@@ -37,6 +37,7 @@
     "version": "0.4.0",
     "dependencies": {
         "substs": "https://github.com/yunxing/substs.git",
+        "libffi": "*",
         "nopam": "https://github.com/yunxing/nopam.git",
         "opam-installer-bin": "https://github.com/yunxing/opam-installer-bin.git",
         "dependency-env": "https://github.com/npm-ml/dependency-env.git"
